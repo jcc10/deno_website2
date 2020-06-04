@@ -2905,6 +2905,12 @@
     "repo": "deno-slash",
     "desc": "Convert Windows backslash paths to slash paths: foo\\\\bar ? foo/bar"
   },
+  "sleep": {
+    "type": "github",
+    "owner": "jcc10",
+    "repo": "sleep",
+    "desc": "A wrapper on set-timeout to allow for async sleep statements in JS/TS."
+  },
   "slugify": {
     "type": "github",
     "owner": "jcardama",
